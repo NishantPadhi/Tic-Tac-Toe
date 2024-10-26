@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/NishantPadhi/Tic-Tac-Toe/static/css/main.c1248a62.css",
-    "main.js": "/NishantPadhi/Tic-Tac-Toe/static/js/main.19e4cd44.js",
-    "index.html": "/NishantPadhi/Tic-Tac-Toe/index.html",
-    "main.c1248a62.css.map": "/NishantPadhi/Tic-Tac-Toe/static/css/main.c1248a62.css.map",
-    "main.19e4cd44.js.map": "/NishantPadhi/Tic-Tac-Toe/static/js/main.19e4cd44.js.map"
+    "main.css": "/tic-tac-toe/static/css/main.c1248a62.css",
+    "main.js": "/tic-tac-toe/static/js/main.19e4cd44.js",
+    "index.html": "/tic-tac-toe/index.html",
+    "main.c1248a62.css.map": "/tic-tac-toe/static/css/main.c1248a62.css.map",
+    "main.19e4cd44.js.map": "/tic-tac-toe/static/js/main.19e4cd44.js.map"
   },
   "entrypoints": [
     "static/css/main.c1248a62.css",
